@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ch02-mybatis-dao/ch02-mybatis-dao.iml" filepath="$PROJECT_DIR$/../ch02-mybatis-dao/ch02-mybatis-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ch03-proxy-dao/ch03-proxy-dao.iml" filepath="$PROJECT_DIR$/../ch03-proxy-dao/ch03-proxy-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis.iml" filepath="$PROJECT_DIR$/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../respontion/mybatis01/mybatis01.iml" filepath="$PROJECT_DIR$/../respontion/mybatis01/mybatis01.iml" />
+    </modules>
+  </component>
+</project>
